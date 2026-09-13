@@ -1,6 +1,10 @@
 # Budget review — 13 September 2026
 
-**Result: the selected new-parts build does not fit the S-tier allowance. This is a transparent planning estimate, not a funding-ready shopping cart.** No order has been placed and no personal contribution is assumed.
+**Result: the selected new-parts build does not fit the S-tier allowance. This is a transparent planning estimate, not a funding-ready shopping cart.** No order has been placed. The personal contribution is capped at EUR 50; the procurement target is EUR 222 including delivery and fees. The current selection does not meet that target.
+
+## New funding constraint
+
+Target: S tier, request at most USD 200, subject to approval. Total delivered cost ceiling: EUR 222. Personal contribution ceiling: EUR 50. These are limits, not verified prices. The actual grant conversion and fees determine whether the full EUR 222 can be afforded. A cheaper compatible BOM and revised CAD remain necessary; the existing BOM is retained as the v0.2 cost evidence, not relabelled with invented prices.
 
 ## Cost summary
 
@@ -55,4 +59,4 @@ This remains an unresolved procurement/design task. It requires confirmed lower 
 
 The requested Pi 5 **4 GB** and **64 GB** storage have been preserved. Silently substituting a Pi 4, a 2 GB board, or a 32 GB card would not meet the stated requirements. Simply labeling a larger bill “S tier” also does not solve the shortfall. A higher tier requires the corresponding project merit and review, not merely a higher price.
 
-Before submission, replace every allowance with an actual part/quantity and delivered quote, resolve the keyboard variant, verify the total in USD including fees, and document how any remaining difference is funded. No extra spending by the family is authorized or presumed.
+Before submission, replace every allowance with an actual part/quantity and delivered quote, resolve the keyboard variant, verify the total in USD including fees, and document how any remaining difference is funded. The builder has authorized a personal contribution of at most EUR 50. Do not order if the actual usable grant plus EUR 50 cannot cover all costs.

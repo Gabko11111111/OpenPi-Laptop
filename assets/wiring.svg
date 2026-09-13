@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#43a99b" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="650" rx="22" fill="#101c2b"/>
+<g font-family="Arial, sans-serif" fill="#ecf3fa">
+<text x="45" y="57" font-size="30" font-weight="bold">OpenPi Laptop · connection overview</text>
+<text x="45" y="90" font-size="17" fill="#b7c8d9">Wall powered · planned system · follow official instructions for pin and cable orientation</text>
+<g fill="#23374c" stroke="#70859c" stroke-width="2">
+<rect x="45" y="170" width="280" height="105" rx="12"/>
+<rect x="45" y="355" width="280" height="105" rx="12"/>
+<rect x="455" y="225" width="270" height="210" rx="12"/>
+<rect x="880" y="145" width="270" height="145" rx="12"/>
+<rect x="880" y="395" width="270" height="90" rx="12"/>
+<rect x="455" y="515" width="270" height="60" rx="12"/>
+</g>
+<g text-anchor="middle" font-size="22">
+<text x="185" y="208">Official 27 W EU supply</text><text x="185" y="240" font-size="18">USB-C · 5.1 V / 5 A mode</text>
+<text x="185" y="393">Perixx 510 H keyboard</text><text x="185" y="425" font-size="18">Integrated touchpad · USB-A</text>
+<text x="590" y="305" font-weight="bold">Raspberry Pi 5</text><text x="590" y="343">4 GB RAM</text><text x="590" y="383" font-size="17">Raspberry Pi OS</text>
+<text x="1015" y="188">Touch Display 2 · 7 inch</text><text x="1015" y="225" font-size="18">Display data + touch</text><text x="1015" y="257" font-size="18">Separate power lead</text>
+<text x="1015" y="434">Active Cooler</text><text x="1015" y="466" font-size="18">Dedicated fan socket</text>
+<text x="590" y="553">64 GB microSD</text>
+</g>
+<g fill="none" stroke="#43a99b" stroke-width="3" marker-end="url(#arrow)">
+<path d="M325 223 H380 V265 H455"/><path d="M325 407 H385 V390 H455"/>
+<path d="M725 270 H805 V192 H880"/><path d="M725 345 H840 V265 H880"/>
+<path d="M725 400 H795 V440 H880"/><path d="M590 515 V435"/>
+</g>
+<g font-size="15" fill="#b7e6df"><text x="741" y="175">22 → 15 pin display ribbon</text><text x="735" y="325">5 V + GND</text></g>
+<text x="45" y="612" font-size="17" fill="#b7c8d9">No battery or HDMI cable required. Disconnect power before changing any wiring.</text>
+</g></svg>

@@ -1,0 +1,29 @@
+{
+  "scope": "Preliminary envelopes only; physical fit unverified",
+  "objects": {
+    "BaseEnvelope": {
+      "valid": true,
+      "solids": 1
+    },
+    "KeyboardReserve": {
+      "valid": true,
+      "solids": 1
+    },
+    "PiReserve": {
+      "valid": true,
+      "solids": 1
+    },
+    "CableReserve": {
+      "valid": true,
+      "solids": 1
+    },
+    "LidEnvelope": {
+      "valid": true,
+      "solids": 1
+    },
+    "DisplayReserve": {
+      "valid": true,
+      "solids": 1
+    }
+  }
+}

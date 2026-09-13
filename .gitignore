@@ -1,0 +1,7 @@
+*.FCBak
+*.FCStd1
+__pycache__/
+*.pyc
+tmp/
+tools/node_modules/
+CAD/v0.2/preview-mesh.json

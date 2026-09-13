@@ -10,7 +10,15 @@ A repairable Raspberry Pi mini laptop with a 3D-printed enclosure, a 7-inch touc
 
 [Stardance project](https://stardance.hackclub.com/projects/61671) · [Parts list](BOM.csv) · [Budget](docs/budget.md) · [CAD](CAD/README.md) · [Build guide](docs/build-guide.md)
 
-## Why build it?
+## Funding limit — updated 13 September 2026
+
+The intended funding request is **S tier, USD 200 maximum**, subject to review. The builder's personal contribution must never exceed **EUR 50**. The new all-in procurement target is **EUR 222 maximum**, including VAT, delivery, printing materials, fasteners and payment fees. This is a **cost ceiling, not a verified shopping total**.
+
+The current v0.2 BOM still totals **EUR 371.59** and must not be submitted as an affordable EUR 222 build. A cheaper, compatible selection has not yet been verified. The Raspberry Pi 5 **4 GB** and **64 GB microSD** requirements remain. Changing display or keyboard requires revising the enclosure before printing.
+
+Before any order, the payable total must be no more than **the actual usable grant in EUR plus EUR 50**, and no more than EUR 222. A smaller grant or conversion fees reduce the allowable total. No purchase or grant submission has been made.
+
+## Project motivation
 
 I want to learn how a computer becomes a complete device: choosing compatible parts, designing an enclosure, managing cables and cooling, assembling it, and checking that it works. OpenPi is intended for learning Linux, writing small programs, and lightweight everyday computing.
 
@@ -103,7 +111,7 @@ The [assembly guide](CAD/v0.2/ASSEMBLY.md) gives the screw-length calculations, 
 
 ## Budget and S-tier funding
 
-**Result: the selected new-parts build does not fit the S-tier allowance. This is a transparent planning estimate, not a funding-ready shopping cart.** No order has been placed and no personal contribution is assumed.
+**Result: the selected new-parts build does not fit the S-tier allowance. This is a transparent planning estimate, not a funding-ready shopping cart.** No order has been placed. The personal contribution is capped at EUR 50; the procurement target is EUR 222 including delivery and fees. The current selection does not meet that target.
 
 ### Cost summary
 
@@ -158,7 +166,7 @@ This remains an unresolved procurement/design task. It requires confirmed lower 
 
 The requested Pi 5 **4 GB** and **64 GB** storage have been preserved. Silently substituting a Pi 4, a 2 GB board, or a 32 GB card would not meet the stated requirements. Simply labeling a larger bill “S tier” also does not solve the shortfall. A higher tier requires the corresponding project merit and review, not merely a higher price.
 
-Before submission, replace every allowance with an actual part/quantity and delivered quote, resolve the keyboard variant, verify the total in USD including fees, and document how any remaining difference is funded. No extra spending by the family is authorized or presumed.
+Before submission, replace every allowance with an actual part/quantity and delivered quote, resolve the keyboard variant, verify the total in USD including fees, and document how any remaining difference is funded. The builder has authorized a personal contribution of at most EUR 50. Do not order if the actual usable grant plus EUR 50 cannot cover all costs.
 
 ## Milestones
 

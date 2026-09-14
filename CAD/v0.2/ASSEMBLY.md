@@ -8,7 +8,7 @@ This is a designed prototype with printable geometry. Its fit, strength, hinge f
 - `openpi-parts.FCStd`: six individual manufactured parts in design coordinates.
 - `openpi-assembly.step` and `openpi-parts.step`: neutral CAD exports.
 - `STL/`: six main printable parts, one fixed hinge coupon, and one moving hinge coupon. Each STL is translated to its own origin; these are not prearranged slicer plates.
-- `../build_enclosure.py`: editable parameterized geometry source; regenerate using FreeCAD 1.1.1 Python.
+- `../build_enclosure_v02.py`: editable parameterized geometry source; regenerate using FreeCAD 1.1.1 Python.
 - `checks.json`: recorded geometric and mesh checks.
 
 The base body is 262 × 250 mm; its integral hinge barrels extend depth to 262 mm. The lid back is 262 × 266 mm including its moving hinge tabs. The main base/deck top is 43 mm high. The closed lid is separated from it by 3 mm, and the back of the lid is at 73 mm. Hinge axes are at y=255, z=44.5 in base coordinates. Small added foot pads are outside these dimensions.

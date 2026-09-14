@@ -5,3 +5,5 @@ __pycache__/
 tmp/
 tools/node_modules/
 CAD/v0.2/preview-mesh.json
+
+CAD/v0.3/preview-mesh.json

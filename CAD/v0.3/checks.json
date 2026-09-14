@@ -1,0 +1,97 @@
+{
+  "base": {
+    "valid_solid": true,
+    "size_mm": [
+      196.0,
+      202.0,
+      51.5
+    ],
+    "mesh_facets": 11424,
+    "mesh_closed": true
+  },
+  "keyboard_deck": {
+    "valid_solid": true,
+    "size_mm": [
+      196.0,
+      190.0,
+      24.0
+    ],
+    "mesh_facets": 5248,
+    "mesh_closed": true
+  },
+  "keyboard_rail_left": {
+    "valid_solid": true,
+    "size_mm": [
+      20.0,
+      100.0,
+      3.0
+    ],
+    "mesh_facets": 692,
+    "mesh_closed": true
+  },
+  "keyboard_rail_right": {
+    "valid_solid": true,
+    "size_mm": [
+      20.0,
+      100.0,
+      3.0
+    ],
+    "mesh_facets": 692,
+    "mesh_closed": true
+  },
+  "lid_back": {
+    "valid_solid": true,
+    "size_mm": [
+      196.0,
+      206.0,
+      35.5
+    ],
+    "mesh_facets": 6936,
+    "mesh_closed": true
+  },
+  "display_bezel": {
+    "valid_solid": true,
+    "size_mm": [
+      196.0,
+      190.0,
+      5.0
+    ],
+    "mesh_facets": 2264,
+    "mesh_closed": true
+  },
+  "material": {
+    "solid_volume_cm3": 629.37,
+    "full_solid_PETG_mass_g_at_1_27": 799.3,
+    "note": "Excludes supports, coupons and failed prints; slice before purchase"
+  },
+  "hinge_sweep": {
+    "angles_degrees": [
+      0,
+      5,
+      15,
+      30,
+      45,
+      60,
+      75,
+      90,
+      100,
+      105,
+      110
+    ],
+    "interference_mm3": {
+      "0": 0.0,
+      "5": 0.0,
+      "15": 0.0,
+      "30": 0.0,
+      "45": 0.0,
+      "60": 0.0,
+      "75": 0.0,
+      "90": 0.0,
+      "100": 0.0,
+      "105": 0.0,
+      "110": 0.0
+    },
+    "stop_interference_at_112_deg_mm3": 23.121,
+    "scope": "Rigid printed geometry only; cables and deformation not simulated"
+  }
+}
